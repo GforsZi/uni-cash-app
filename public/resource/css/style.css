@@ -1,0 +1,25 @@
+::-webkit-scrollbar {
+
+  width: 5px;
+
+}
+::-webkit-scrollbar-thumb {
+  background-color: #503c3c;
+  border-radius: 60px;
+}
+
+::-ms-scrollbar {
+  width: 5px;
+}
+::-ms-scrollbar-thumb {
+  background-color: #503c3c;
+  border-radius: 60px;
+}
+
+::-moz-scrollbar {
+  width: 5px;
+}
+::-moz-scrollbar-thumb {
+  background-color: #503c3c;
+  border-radius: 60px;
+}
